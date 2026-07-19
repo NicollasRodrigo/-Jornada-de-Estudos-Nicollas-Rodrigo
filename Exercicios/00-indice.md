@@ -1,10 +1,10 @@
 # 📚 Índice de Estudos
 
-Este é o ponto de entrada para sua jornada de aprendizado em JavaScript.
+Este é o ponto de entrada para estudar JavaScript de forma organizada.
 
 ## 🧭 Módulos
 
-- [📖 Apresentação](../README.md)
+- [📖 Voltar ao repositório](../README.md)
 - [🚀 Módulo 01 - Variáveis](./01-variaveis.md)
 - [➕ Módulo 02 - Operadores](./02-operadores.md)
 - [🔀 Módulo 03 - Condições](./03-condicoes.md)
@@ -17,14 +17,6 @@ Este é o ponto de entrada para sua jornada de aprendizado em JavaScript.
 - [📝 Módulo 10 - Anotações e Dicas](./10-anotacoes.md)
 - [🧭 Trilhas Futuras](./11-trilhas-futuras.md)
 
-## 📝 Organização
+## ✨ Objetivo
 
-Cada módulo funciona como uma página de estudos com navegação simples:
-
-- Anterior
-- Voltar ao Índice
-- Próximo
-
-## 🌟 Objetivo desta estrutura
-
-A ideia é transformar este repositório em um verdadeiro painel de estudos, com navegação intuitiva, organização progressiva e uma aparência mais profissional para quem visita o projeto.
+Manter a leitura simples, com links diretos para os tópicos principais e uma navegação mais leve.
