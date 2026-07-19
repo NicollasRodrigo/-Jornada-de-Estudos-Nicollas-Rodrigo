@@ -19,6 +19,7 @@ Este espaço é mais do que uma coleção de arquivos: é um registro transparen
 - [📁 Estrutura das pastas](#-estrutura-das-pastas)
 - [▶️ Como executar os códigos](#-como-executar-os-códigos)
 - [📈 Progresso e evolução](#-progresso-e-evolução)
+- [🧭 Trilhas futuras](#-trilhas-futuras)
 - [💼 Objetivos profissionais](#-objetivos-profissionais)
 - [🤝 Feedbacks e sugestões](#-feedbacks-e-sugestões)
 - [🌱 Mensagem final](#-mensagem-final)
@@ -120,6 +121,28 @@ Minha evolução será percebida em diferentes níveis:
 - maior domínio de conceitos básicos e intermediários;
 - crescimento na capacidade de criar soluções mais autônomas;
 - evolução na forma de documentar e apresentar o trabalho.
+
+## 🧭 Trilhas futuras
+
+Este repositório também pode servir como base para futuras trilhas de estudo, organizadas como se fossem slides ou módulos de aprendizagem. A ideia é continuar expandindo minha jornada em áreas como:
+
+- JavaScript
+- Python
+- React
+- Front-end
+- Back-end
+- Banco de dados
+- Git e GitHub
+
+Além disso, vou organizar meus próximos repositórios e estudos em sequência, para que a evolução fique cada vez mais clara e objetiva.
+
+### 🔗 Links para trilhas e repositórios
+
+- [JavaScript](https://github.com/NicollasRodrigo/CURSO-DE-JAVASCRIPT)
+- [Python](https://github.com/NicollasRodrigo)
+- [React](https://github.com/NicollasRodrigo)
+- [Front-end](https://github.com/NicollasRodrigo)
+- [Back-end](https://github.com/NicollasRodrigo)
 
 ## 💼 Objetivos profissionais
 

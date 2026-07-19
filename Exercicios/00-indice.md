@@ -15,6 +15,7 @@ Este é o ponto de entrada para sua jornada de aprendizado em JavaScript.
 - [🛠️ Módulo 08 - Projetos](./08-projetos.md)
 - [🧪 Módulo 09 - Projetos Práticos](./09-projetos-praticos.md)
 - [📝 Módulo 10 - Anotações e Dicas](./10-anotacoes.md)
+- [🧭 Trilhas Futuras](./11-trilhas-futuras.md)
 
 ## 📝 Organização
 
