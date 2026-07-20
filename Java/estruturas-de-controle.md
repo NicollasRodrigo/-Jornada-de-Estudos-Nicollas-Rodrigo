@@ -1,4 +1,4 @@
-# 🔁 Estruturas de Controle em Java
+# 🔁 Estruturas de controle em Java
 
 ## Conteúdo
 
@@ -6,6 +6,6 @@
 - switch
 - loops
 
-## Links úteis
+## Voltar
 
-- [Voltar ao índice](./README.md)
+- [Voltar ao início da seção Java](./README.md)
