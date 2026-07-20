@@ -1,93 +1,105 @@
-# 📚 Hub de Estudos | Nicollas Rodrigo
+# 📚 Jornada de Estudos | Nicollas Rodrigo
 
-Bem-vindo ao meu Hub de Estudos!
+Olá! Seja bem-vindo ao meu repositório. 👋
 
-Este repositório reúne todos os meus estudos em programação, organizando cursos, exercícios e materiais de aprendizagem em um único lugar.
+Este espaço reúne a minha jornada de aprendizado em programação. Aqui organizo os cursos que estou realizando, exercícios, anotações, materiais de apoio e, conforme eu avançar, também pretendo adicionar exemplos de código desenvolvidos durante os estudos.
 
-O objetivo deste hub é registrar minha evolução como estudante de tecnologia, mantendo meus repositórios organizados e facilitando a navegação para recrutadores, desenvolvedores e qualquer pessoa interessada em acompanhar minha jornada de aprendizado.
+Criei este repositório para acompanhar minha evolução, manter meus estudos organizados e registrar, de forma simples e transparente, o que venho aprendendo ao longo da minha formação em tecnologia.
 
 ---
 
 # 👨‍💻 Sobre Mim
 
-Olá! Meu nome é **Nicollas Rodrigo** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
+Meu nome é **Nicollas Rodrigo** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-Criei este hub para organizar meus estudos, registrar minha evolução e reunir, em um único lugar, os cursos, exercícios e materiais que fazem parte da minha jornada de aprendizado.
+Tenho interesse em desenvolvimento de software e estou construindo minha base de conhecimentos por meio da graduação, de cursos e da prática constante.
 
-Meu principal objetivo é construir uma base sólida em programação, aplicar na prática os conhecimentos adquiridos durante os estudos e evoluir continuamente para conquistar minha primeira oportunidade profissional na área de tecnologia.
+Meu objetivo é fortalecer meus fundamentos em programação, evoluir com consistência e me preparar para conquistar minha primeira oportunidade profissional na área de tecnologia.
 
-Acredito que o aprendizado é um processo contínuo. Por isso, estou sempre aberto a feedbacks, sugestões e boas práticas que possam contribuir para o meu desenvolvimento como desenvolvedor.
+Também acredito que ninguém evolui sozinho. Por isso, estou sempre aberto a feedbacks, sugestões e boas práticas que possam contribuir para o meu aprendizado e crescimento como desenvolvedor.
 
 ---
 
 # 🎯 Objetivos
 
-- Centralizar meus estudos em um único repositório.
-- Organizar cursos, exercícios e materiais de apoio.
-- Registrar minha evolução durante a graduação.
-- Consolidar os conhecimentos adquiridos por meio da prática.
-- Manter um histórico organizado da minha jornada de aprendizado.
+* Organizar meus estudos em um único lugar.
+* Registrar minha evolução ao longo da graduação.
+* Centralizar cursos, exercícios e materiais de apoio.
+* Consolidar os conhecimentos adquiridos por meio da prática.
+* Construir um histórico da minha jornada de aprendizado.
 
 ---
 
-# 📖 Tecnologias que estou estudando
+# 📚 O que você encontrará aqui
 
-Atualmente meus estudos estão focados em:
+Ao longo do tempo, este repositório será atualizado com conteúdos relacionados aos meus estudos, como:
 
-- Lógica de Programação
-- HTML5
-- CSS3
-- JavaScript
-
-Também possuo noções básicas de:
-
-- Git
-- GitHub
-- Python
+* 📖 Anotações
+* 📝 Exercícios
+* 📚 Materiais de apoio
+* 💻 Exemplos de código desenvolvidos durante os estudos
+* 🚀 Conteúdos práticos conforme minha evolução
 
 ---
 
-# 📚 Repositórios
+# 📖 Áreas de estudo
 
-| Tecnologia | Situação |
-|------------|----------|
-| HTML | 🟡 Em estudo |
-| CSS | 🟡 Em estudo |
-| JavaScript | 🟡 Em estudo |
-| Lógica de Programação | 🟡 Em estudo |
-| Git & GitHub | 🟢 Noções básicas |
-| Python | 🟢 Noções básicas |
-| React | ⚪ Planejado |
-| Node.js | ⚪ Planejado |
-| SQL | ⚪ Planejado |
+## Atualmente estudando
+
+* HTML5
+* CSS3
+* JavaScript
+
+## Conhecimentos básicos
+
+* Lógica de Programação
+* Git
+* GitHub
+* Python
+
+## Próximos estudos
+
+* React
+* Node.js
+* SQL
+
+---
+
+# 📂 Repositórios
+
+| Tecnologia            | Repositório                                                                   | Situação                 |
+| --------------------- | ----------------------------------------------------------------------------- | ------------------------ |
+| HTML                  | [estudos-html](https://github.com/NicollasRodrigo/estudos-html)               | 🟡 Em andamento          |
+| CSS                   | [estudos-css](https://github.com/NicollasRodrigo/estudos-css)                 | 🟡 Em andamento          |
+| JavaScript            | [CURSO-DE-JAVASCRIPT](https://github.com/NicollasRodrigo/CURSO-DE-JAVASCRIPT) | 🟡 Em andamento          |
+| Lógica de Programação | [logica-programacao](https://github.com/NicollasRodrigo/logica-programacao)   | 🟢 Conhecimentos básicos |
+| Git & GitHub          | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github)   | 🟢 Conhecimentos básicos |
+| Python                | [CURSO-DE-PYTHON](https://github.com/NicollasRodrigo/CURSO-DE-PYTHON)         | 🟢 Conhecimentos básicos |
+| React                 | [estudos-react](https://github.com/NicollasRodrigo/estudos-react)             | ⚪ Planejado              |
+| Node.js               | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs)           | ⚪ Planejado              |
+| SQL                   | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql)                 | ⚪ Planejado              |
 
 ---
 
 # 🛣️ Roadmap de Aprendizado
 
-| Etapa | Tecnologia | Status |
-|------|------------|--------|
-| 01 | Lógica de Programação | 🟡 Em andamento |
-| 02 | HTML5 | 🟡 Em andamento |
-| 03 | CSS3 | 🟡 Em andamento |
-| 04 | JavaScript | 🟡 Em andamento |
-| 05 | Git e GitHub | 🟢 Noções básicas |
-| 06 | Python | 🟢 Noções básicas |
-| 07 | React | ⚪ Planejado |
-| 08 | Node.js | ⚪ Planejado |
-| 09 | SQL | ⚪ Planejado |
-
-O roadmap completo pode ser consultado em:
-
-```text
-docs/roadmap.md
-```
+| Tecnologia            | Status                   |
+| --------------------- | ------------------------ |
+| Lógica de Programação | 🟢 Conhecimentos básicos |
+| HTML5                 | 🟡 Em andamento          |
+| CSS3                  | 🟡 Em andamento          |
+| JavaScript            | 🟡 Em andamento          |
+| Git e GitHub          | 🟢 Conhecimentos básicos |
+| Python                | 🟢 Conhecimentos básicos |
+| React                 | ⚪ Planejado              |
+| Node.js               | ⚪ Planejado              |
+| SQL                   | ⚪ Planejado              |
 
 ---
 
-# 📁 Estrutura dos Repositórios
+# 📁 Organização dos Repositórios
 
-Todos os repositórios seguem uma estrutura semelhante para manter os estudos organizados e padronizados.
+Procuro manter um padrão simples de organização em todos os repositórios, para facilitar meus estudos e também tornar a navegação mais clara para quem visitar meu perfil.
 
 ```text
 nome-do-repositorio/
@@ -100,7 +112,7 @@ nome-do-repositorio/
 └── assets/
 ```
 
-Estrutura atual deste Hub:
+Estrutura atual deste repositório:
 
 ```text
 .
@@ -113,34 +125,54 @@ Estrutura atual deste Hub:
 └── index.html
 ```
 
-Mais detalhes podem ser encontrados em:
-
-```text
-docs/estrutura.md
-```
-
 ---
 
-# 🧭 Como Navegar
+# 🧭 Como navegar
+
+Você pode explorar este repositório assim:
 
 1. Escolha uma tecnologia na tabela de repositórios.
 2. Acesse o repositório correspondente.
-3. Consulte as aulas e os materiais disponíveis.
-4. Resolva os exercícios propostos.
+3. Consulte as aulas e anotações disponíveis.
+4. Resolva os exercícios.
 5. Acompanhe minha evolução conforme novos conteúdos forem adicionados.
+
+---
+
+# 📈 Evolução
+
+Este repositório será atualizado conforme eu avançar nos estudos e desenvolver novos conhecimentos.
+
+Cada novo conteúdo representa mais uma etapa da minha jornada de aprendizado e do meu crescimento como desenvolvedor.
+
+---
+
+# 🤝 Feedbacks
+
+Se você tiver alguma sugestão, encontrar uma melhoria ou quiser compartilhar uma boa prática, ficarei feliz em receber seu feedback.
+
+Acredito que compartilhar conhecimento e receber orientações faz parte da evolução de qualquer desenvolvedor.
 
 ---
 
 # 📬 Contato
 
-- **GitHub:** https://github.com/NicollasRodrigo
-- **GitLab:** https://gitlab.com/SEU-USUARIO
-- **Discord:** SEU_USUARIO
+* **GitHub:** https://github.com/NicollasRodrigo
+* **GitLab:** https://gitlab.com/SEU-USUARIO
+* **Discord:** SEU_USUARIO
 
 ---
 
 # 📄 Licença
 
-Este repositório está licenciado sob a licença MIT.
+Este projeto está licenciado sob a Licença MIT.
 
 Consulte o arquivo **LICENSE** para mais informações.
+
+---
+
+## Obrigado pela visita! 🚀
+
+Se você chegou até aqui, agradeço por dedicar um tempo para conhecer meu repositório.
+
+Este espaço continuará sendo atualizado conforme eu evoluo nos estudos e desenvolvo novos conhecimentos.
