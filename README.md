@@ -1,6 +1,6 @@
 # 📚 Jornada de Estudos | Nicollas Rodrigo
 
-Olá! Seja bem-vindo ao meu repositório. 👋
+Olá! Seja bem-vindo ao meu repositório. 
 
 Este espaço reúne a minha jornada de aprendizado em programação. Aqui organizo os cursos que estou realizando, exercícios, anotações, materiais de apoio e, conforme eu avançar, também pretendo adicionar exemplos de código desenvolvidos durante os estudos.
 
