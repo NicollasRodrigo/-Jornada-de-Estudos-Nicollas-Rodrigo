@@ -132,8 +132,8 @@ Você pode explorar este repositório assim:
 
 1. Escolha uma tecnologia na tabela de repositórios.
 2. Acesse o repositório correspondente.
-3. Consulte o guia, as aulas e as anotações disponibilizadas.
-4. Acompanhe minha evolução conforme novos conteúdos forem adicionados
+3. Consulte o guia, as aulas e as anotações
+4. Acompanhe minha evolução conforme novos conteúdos forem adicionados.
 
 
 ---
