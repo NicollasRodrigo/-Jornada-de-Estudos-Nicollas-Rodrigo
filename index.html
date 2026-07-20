@@ -4,39 +4,49 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nicollas Rodrigo | Portfólio de Estudos</title>
+  <title>Nicollas Rodrigo | Hub de Estudos</title>
   <link rel="stylesheet" href="./assets/css/base.css">
 </head>
 
 <body>
-  <main class="container container--wide">
+  <main class="shell">
     <section class="hero">
-      <p class="eyebrow">Portfólio de estudos</p>
+      <img class="logo" src="./assets/img/logo.svg" alt="Logo NR">
+      <p class="eyebrow">Hub de estudos em programacao</p>
       <h1>Nicollas Rodrigo</h1>
-      <p>Estudante de Análise e Desenvolvimento de Sistemas no UNIPÊ, com foco em JavaScript, HTML, CSS, lógica de
-        programação e desenvolvimento web.</p>
-      <p>Possuo TEA Grau 1 e tenho buscado construir minha trajetória com disciplina, evolução e foco profissional.</p>
+      <p>
+        Estudante de Analise e Desenvolvimento de Sistemas, organizando minha evolucao em tecnologia por meio de
+        estudos, exercicios e projetos praticos.
+      </p>
+      <div class="actions">
+        <a class="button" href="./README.md">README</a>
+        <a class="button button--secondary" href="./docs/repositorios.md">Repositorios</a>
+      </div>
     </section>
 
-    <section class="grid">
-      <a class="card" href="./AULAS.md">
-        <h2>Trilhas de estudo</h2>
-        <p>Organização das aulas e conteúdos por tema.</p>
+    <section class="links" aria-label="Areas de estudo">
+      <a class="card" href="./javascript/">
+        <span>01</span>
+        <strong>JavaScript</strong>
+        <small>Aulas, exercicios e projetos iniciais.</small>
       </a>
 
-      <a class="card" href="./Exercicios/00-indice.md">
-        <h2>Índice</h2>
-        <p>Navegação central para os módulos principais.</p>
+      <a class="card" href="./java/">
+        <span>02</span>
+        <strong>Java</strong>
+        <small>Fundamentos e anotacoes por tema.</small>
       </a>
 
-      <a class="card" href="./Java/README.md">
-        <h2>Java</h2>
-        <p>Seção complementar com estudos organizados em Java.</p>
+      <a class="card" href="./docs/roadmap.md">
+        <span>03</span>
+        <strong>Roadmap</strong>
+        <small>Proximas etapas da jornada.</small>
       </a>
 
-      <a class="card" href="./tests/index.html">
-        <h2>Testes</h2>
-        <p>Arquivos de validação, experimentos e exercícios.</p>
+      <a class="card" href="./docs/estrutura.md">
+        <span>04</span>
+        <strong>Organizacao</strong>
+        <small>Padrao para novos repositorios.</small>
       </a>
     </section>
   </main>

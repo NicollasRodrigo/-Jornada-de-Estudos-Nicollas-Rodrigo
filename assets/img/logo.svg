@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Logo NR</title>
+  <desc id="desc">Monograma NR para o hub de estudos de Nicollas Rodrigo.</desc>
+  <rect width="240" height="240" rx="42" fill="#1e6f5c"/>
+  <path d="M56 166V74h22l50 57V74h24v92h-20l-52-59v59H56Z" fill="#ffffff"/>
+  <path d="M136 166V74h42c21 0 36 13 36 32 0 13-7 24-18 29l23 31h-29l-19-27h-11v27h-24Zm24-47h17c8 0 13-5 13-12s-5-12-13-12h-17v24Z" fill="#cfeee4"/>
+  <path d="M44 194h152" stroke="#cfeee4" stroke-width="10" stroke-linecap="round"/>
+</svg>
