@@ -1,33 +1,35 @@
-# 🚀 Repositório de Estudos em JavaScript
+# 🚀 Repositório de estudos em JavaScript
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow) ![HTML](https://img.shields.io/badge/HTML5-%23E34F26-orange) ![CSS](https://img.shields.io/badge/CSS3-%231572B6-blue)
-
-Este repositório reúne aulas, exercícios e projetos de JavaScript em uma estrutura organizada, limpa e fácil de navegar.
+Este repositório reúne exercícios, projetos e trilhas de estudo em JavaScript, com foco em organização, clareza e evolução técnica.
 
 ## 👤 Sobre mim
 
-Sou Nicollas Rodrigo, estudante de Análise e Desenvolvimento de Sistemas. Estou cursando faculdade nessa área e utilizo este repositório como um registro prático da minha evolução, organização e dedicação aos estudos.
+Sou Nicollas Rodrigo, estudante de Análise e Desenvolvimento de Sistemas no UNIPÊ. Possuo TEA (Transtorno do Espectro Autista) Grau 1 e tenho buscado transformar minha trajetória com disciplina, consistência e foco profissional.
 
-## 🔗 Acesso rápido
+## 🔗 Navegação principal
 
-- [Organização das aulas](./AULAS.md)
+- [Trilhas de estudo](./AULAS.md)
 - [Índice de estudos](./Exercicios/00-indice.md)
 - [Seção de Java](./Java/README.md)
-- [Página inicial de exemplos](./index.html)
+- [Landing page inicial](./index.html)
 
-## 📁 Estrutura do repositório
+## 🧭 Trilhas futuras
 
-- aulas organizadas por tema e ordem de estudo;
-- exercícios práticos em pastas separadas;
-- arquivos de apoio em [assets/](./assets) e [tests/](./tests).
+- [JavaScript](https://github.com/NicollasRodrigo/CURSO-DE-JAVASCRIPT)
+- [Python](https://github.com/NicollasRodrigo/CURSO-DE-PYTHON)
+- [React](https://github.com/NicollasRodrigo)
+- [Java](./Java/README.md)
+- [Front-end](https://github.com/NicollasRodrigo)
+- [Back-end](https://github.com/NicollasRodrigo)
 
-## 🛠️ Tecnologias presentes
+## 🛠️ Tecnologias e foco
 
 - JavaScript
 - HTML
 - CSS
 - Git e GitHub
+- Lógica de programação
 
 ## ✨ Objetivo
 
-Manter o projeto simples, profissional e acessível para leitura, estudo e apresentação de progresso.
+Apresentar meu desenvolvimento de forma organizada, profissional e acessível para quem visita o repositório.
